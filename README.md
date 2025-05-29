@@ -33,17 +33,20 @@ What it does:
 Explanation of every files:
 
 1 Subject.java
+
 	•	Represents one subject and the marks obtained.
 	•	Has two private fields: subjectName and marks.
 	•	Constructor initializes these fields.
 	•	Getters provide access to these fields.
 
 2 Person.java
+
 	•	Represents a general person with name and rollNo.
 	•	Fields are protected so subclasses can access them.
 	•	Method showDetails() prints name and roll number.
 
 3 Student.java
+
 	•	Subclass of Person (uses inheritance).
 	•	Has extra fields:
 	•	An array of Subject objects.
@@ -57,6 +60,7 @@ Explanation of every files:
 	•	isPass() checks if any subject has marks below 40.
 
 4 Main.java
+
 	•	Contains the main method to run the program.
 	•	Uses Scanner to take input for multiple students and their subjects.
 	•	Creates objects of Subject and Student based on user input.
