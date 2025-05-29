@@ -6,7 +6,7 @@ It allows the user to enter student details, input marks for multiple subjects, 
 	•	Calculating average
 	•	Checking whether the student has passed or failed
 	•	Displaying a detailed report for each student
- 
+  
 
 What it does:
 
