@@ -1,6 +1,7 @@
 Main Purpose
 
 It allows the user to enter student details, input marks for multiple subjects, and then analyzes performance by:
+
 	•	Calculating total marks
 	•	Calculating average
 	•	Checking whether the student has passed or failed
@@ -8,6 +9,7 @@ It allows the user to enter student details, input marks for multiple subjects, 
  
 
 What it does:
+
 	1 Takes input:
 	•	Number of students
 	•	For each student:
